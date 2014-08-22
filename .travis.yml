@@ -1,0 +1,7 @@
+language: python
+script:
+  - mkdir hodor
+  - sudo chgrp --recursive $(id -gn) hodor
+  - sudo chmod --recursive g+w hodor
+notifications:
+  email: false
