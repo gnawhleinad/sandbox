@@ -1,4 +1,4 @@
-<table>
+<table style="width:100%">
     <tr>
         <th colspan="3">sith</td>
         <th>lord</td>
