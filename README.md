@@ -1,8 +1,29 @@
-|             |          Spanning Header (Two Cells)           ||
-Header 1 | Header  2| Header 2 |
- ------------ | :-----------: | -----------: |
-Content 1      |          *Spanning Cell*        ||
-Content  2     |   **Cell Bold**    |         Cell |
-New section   |     More      |         Data |
-And more      |            And more          |
+<table>
+    <tr>
+        <th colspan="3">sith</td>
+        <th>lord</td>
+    </tr>
+    
+    <tr>
+        <td rowspan="2" colspan="2">lightsabre</td>
+        <td>red</td>
+        <td>pwnage</td>
+    </tr>
+    <tr>
+        <td>blue</td>
+        <td>l8</td>
+    </tr>
+    
+    <tr>
+        <td rowspan="2">feelings</td>
+        <td>hatred</td>
+        <td>h8</td>
+        <td>hater</td>
+    </tr>
+    <tr>
+        <td>anger</td>
+        <td>rawr</td>
+        <td>angar</td>
+    </tr>
+</table>
 
